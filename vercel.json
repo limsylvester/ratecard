@@ -1,12 +1,6 @@
 {
-    "version": 2,
-    "public": true,
-    "buildCommand": "",
-    "outputDirectory": ".",
-    "rewrites": [
-          {
-                  "source": "/api/(.*)",
-                  "destination": "/api"
-          }
-    ]
+      "version": 2,
+      "public": true,
+      "buildCommand": "",
+      "outputDirectory": "."
 }
